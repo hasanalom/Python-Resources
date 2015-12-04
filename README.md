@@ -2,7 +2,14 @@
 
 Python is widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
 
-**Python Tutorials**
+**Online Reference**
 
+* [A Byte of Python](http://www.swaroopch.com/notes/python/)
 * [Google Python](https://developers.google.com/edu/python/introduction)
-* [Python for you and me] (http://pymbook.readthedocs.org/en/py3/)
+* [Python for You and Me] (http://pymbook.readthedocs.org/en/py3/)
+* [Learn Python The hard Way] (http://learnpythonthehardway.org/book/)
+* [The Python Totorial] (https://docs.python.org/2/tutorial/)
+* [Python Practice Book] (http://anandology.com/python-practice-book/index.html)
+* [Standard Library] (https://docs.python.org/2/library/)
+* [Cheat Sheet] (http://www.cheatography.com/davechild/cheat-sheets/python/)
+* [Time Complexity] (https://wiki.python.org/moin/TimeComplexity)
