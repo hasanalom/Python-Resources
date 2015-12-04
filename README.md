@@ -5,3 +5,4 @@ Python is widely used general-purpose, high-level programming language. Its desi
 **Python Tutorials**
 
 * [Google Python](https://developers.google.com/edu/python/introduction)
+* [Python for you and me] (http://pymbook.readthedocs.org/en/py3/)
