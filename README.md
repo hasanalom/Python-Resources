@@ -22,5 +22,5 @@ Python is widely used general-purpose, high-level programming language. Its desi
 [Codecademy] (https://www.codecademy.com/learn/python)
 [Udemy] (https://www.udemy.com/the-ultimate-python-programming-course/)
 
-***eBook*
+**eBook**
 
