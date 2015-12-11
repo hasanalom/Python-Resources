@@ -13,6 +13,7 @@ Python is widely used general-purpose, high-level programming language. Its desi
 * [Python Practice Book] (http://anandology.com/python-practice-book/index.html)
 * [Standard Library] (https://docs.python.org/2/library/)
 * [Cheat Sheet] (http://www.cheatography.com/davechild/cheat-sheets/python/)
+* [Jupyter Notebook] (http://nbviewer.ipython.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/)
 * [Time Complexity] (https://wiki.python.org/moin/TimeComplexity)
 
 **Courses**
@@ -21,6 +22,7 @@ Python is widely used general-purpose, high-level programming language. Its desi
 [Coursera] (https://www.coursera.org/course/interactivepython1)
 [Codecademy] (https://www.codecademy.com/learn/python)
 [Udemy] (https://www.udemy.com/the-ultimate-python-programming-course/)
+
 
 **eBook**
 [Learn Python The hard Way] (http://www.souravsengupta.com/int2pro2014/python/LPTHW.pdf)
