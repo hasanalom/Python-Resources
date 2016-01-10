@@ -27,4 +27,5 @@ Python is widely used general-purpose, high-level programming language. Its desi
 ***eBook***
 [Learn Python The hard Way] (http://www.souravsengupta.com/int2pro2014/python/LPTHW.pdf)
 [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
+pdf
 
